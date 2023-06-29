@@ -1,13 +1,13 @@
-package com.example.springbootlearn;
+package com.jiawa.wiki;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootLearnApplication {
+public class WikiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootLearnApplication.class, args);
+		SpringApplication.run(WikiApplication.class, args);
 	}
 
 }

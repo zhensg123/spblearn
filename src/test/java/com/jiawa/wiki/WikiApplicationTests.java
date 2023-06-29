@@ -1,10 +1,10 @@
-package com.example.springbootlearn;
+package com.jiawa.wiki;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootLearnApplicationTests {
+class WikiApplicationTests {
 
 	@Test
 	void contextLoads() {
